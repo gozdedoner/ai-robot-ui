@@ -1,5 +1,3 @@
-// src/components/ChatBubble.tsx
-
 import React from "react";
 import type { MessageType } from "../types/message";
 
