@@ -1,32 +1,35 @@
-# 🤖 Chat Robot AI
+# 🤖 AI Robot UI – Neon Chat Interface
 
-A modern, neon-themed, responsive AI chat interface built with React and TypeScript. This sleek UI simulates real-time messaging with a stylish typing animation and auto-scroll functionality.
+A modern AI chat interface with a neon-style design built using **React + TypeScript**.
 
-## 🚀 Features
+### 🧠 Features
 
-- ⚡ Real-time chat interface
-- 💬 User & AI message bubbles
-- ✨ Typing animation ("is typing...")
-- 🎨 Neon-style responsive UI
-- 🧠 Basic AI response logic (dummy-based)
-- 🔄 Auto-scroll to latest message
+- ⚡ Neon UI with pink–aqua color palette
+- 💬 Chat bubbles (User & AI)
+- 🖱️ Auto-scroll to latest message
+- ⌨️ "Typing..." animation
+- 📱 Responsive design (mobile-friendly)
+- 🎨 Custom CSS styling (no frameworks)
 
-## 🛠️ Tech Stack
+### 🚀 Live Demo
 
-- React (Vite)
+👉 [https://ai-robot-ui.vercel.app](https://ai-robot-ui.vercel.app)
+
+### 📂 Tech Stack
+
+- React
 - TypeScript
-- Tailwind CSS
-- HTML/CSS
+- CSS Modules
+- Vite
 
+### 📸 Preview
 
- 🔗 Live Demo: https://ai-robot-ui.vercel.app/
+![Preview](./preview.png)
 
+---
 
-## 📸 Preview
+Feel free to clone or fork the project and customize it further!
 
-![Chat Robot AI UI](./src/assets/screenshot.png)
-
-## 📁 Project Structure
-
+Made with ❤️ by [@gozdedoner](https://github.com/gozdedoner)
 
 
