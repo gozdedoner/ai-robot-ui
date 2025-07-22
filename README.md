@@ -1,26 +1,28 @@
-# 🤖 AI Robot Chat
+# 🤖 Chat Robot AI
 
-This is a simple and elegant AI chatbot interface built with **React**, **TypeScript**, and the **OpenAI API**.  
-It allows users to interact with an AI assistant in real time through a clean, responsive chat UI.
+A modern, neon-themed, responsive AI chat interface built with React and TypeScript. This sleek UI simulates real-time messaging with a stylish typing animation and auto-scroll functionality.
 
-## 🧠 Features
+## 🚀 Features
 
-- 💬 Chat with OpenAI-powered assistant
-- ⚡ Fast and lightweight interface (Vite + React)
-- 📱 Fully responsive design
-- 🔒 Environment-safe API setup (.env support)
-- 💡 Built with modern web standards and best practices
+- ⚡ Real-time chat interface
+- 💬 User & AI message bubbles
+- ✨ Typing animation ("is typing...")
+- 🎨 Neon-style responsive UI
+- 🧠 Basic AI response logic (dummy-based)
+- 🔄 Auto-scroll to latest message
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React + TypeScript
-- **Styling:** CSS
-- **Build Tool:** Vite
-- **API:** OpenAI API (Chat Completions)
+- React (Vite)
+- TypeScript
+- Tailwind CSS
+- HTML/CSS
 
-## 📦 Installation & Setup
+## 📸 Preview
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/gozdedoner/ai-robot-ui.git
+![Chat Robot AI UI](./src/assets/screenshot.png)
+
+## 📁 Project Structure
+
+
 
