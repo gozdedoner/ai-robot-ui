@@ -18,6 +18,10 @@ A modern, neon-themed, responsive AI chat interface built with React and TypeScr
 - Tailwind CSS
 - HTML/CSS
 
+
+ 🔗 Live Demo: https://ai-robot-ui.vercel.app/
+
+
 ## 📸 Preview
 
 ![Chat Robot AI UI](./src/assets/screenshot.png)
